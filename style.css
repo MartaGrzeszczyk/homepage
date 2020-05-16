@@ -1,0 +1,39 @@
+
+body{
+    background: #fefefe;
+    font-family: sans-serif
+
+}
+section{
+    background: #ffffff;
+}
+h1{
+    color:darkslategray;
+}
+p {
+    color: #125966;
+}
+h2 {
+    color: #1460aa;
+}
+footer {
+    color: #868686
+}
+
+.hotpink-header{ 
+    color: hotpink;
+}
+#top{
+    background: #e9b0b0;
+}
+nav a {
+    color:#fd0000
+}
+.about {
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-left: 26rem;
+    margin-right: 4rem;
+    margin-top: 3rem;
+    line-height: 3rem;
+}
